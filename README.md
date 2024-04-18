@@ -12,7 +12,7 @@ Before using the script, make sure you have the following:
 Check Bun installation : 
 (don't forget to refresh your path or close your terminal)
 ```bash
-cd bun
+bun --version
 ```
 
 ## Installation
