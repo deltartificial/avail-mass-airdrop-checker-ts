@@ -2,7 +2,7 @@
 
 The `avail-mass-airdrop-checker-ts` is a TypeScript script designed to check mass eligibility of Ethereum (EVM) addresses for the Avail airdrop (AvailProject). This script utilizes Bun, a modern JavaScript runtime similar to Node.js, to efficiently handle the processing of multiple addresses. 💙
 
-[Twitter](https://twitter.com/deltartificial). (@deltartificial)
+[Twitter](https://twitter.com/deltartificial) (@deltartificial)
 
 ## Prerequisites
 
