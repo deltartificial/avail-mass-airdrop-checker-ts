@@ -1,4 +1,4 @@
-# Avail Mass Airdrop Checker TS 
+# Avail Mass Airdrop Checker 🩵
 
 
 https://github.com/deltartificial/avail-mass-airdrop-checker-ts/assets/106784938/42ad86d4-6b91-4ed8-98c0-fce631a99f18
